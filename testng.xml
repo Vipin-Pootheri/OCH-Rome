@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Suite">
+
+<test name="Test A" allow-return-values="true">
+    <classes>
+        <class name="webdriver.TestCase" ></class>  
+    </classes>
+</test>
+
+
+</suite>

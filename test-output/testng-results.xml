@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-03-25T17:50:03Z" name="My Suite" finished-at="2018-03-25T17:50:04Z" duration-ms="1063">
+    <groups>
+    </groups>
+    <test started-at="2018-03-25T17:50:03Z" name="Test A" finished-at="2018-03-25T17:50:04Z" duration-ms="1063">
+      <class name="webdriver.TestCase">
+        <test-method signature="test(java.util.Hashtable)[pri:1, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:03Z" name="test" data-provider="getData" finished-at="2018-03-25T17:50:03Z" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PRTY_TAX_ID_NUM=210908878, CRS_SELF_CNTRY=IND, CRS_SELF_CRTD=Y, PRTY_TAX_IND=Y, PRTY_KEY=Vipin, PRTY_ADD=Bourke Street}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:03Z" name="quit" finished-at="2018-03-25T17:50:04Z" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method signature="test(java.util.Hashtable)[pri:1, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:04Z" name="test" data-provider="getData" finished-at="2018-03-25T17:50:04Z" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PRTY_TAX_ID_NUM=8888888, CRS_SELF_CNTRY=JAP, CRS_SELF_CRTD=N, PRTY_TAX_IND=N, PRTY_KEY=Athira, PRTY_ADD=Collins Street}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:04Z" name="quit" finished-at="2018-03-25T17:50:04Z" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method signature="test(java.util.Hashtable)[pri:1, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:04Z" name="test" data-provider="getData" finished-at="2018-03-25T17:50:04Z" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PRTY_TAX_ID_NUM=1111111, CRS_SELF_CNTRY=US, CRS_SELF_CRTD=Y, PRTY_TAX_IND=N, PRTY_KEY=Ashwini, PRTY_ADD=Latrobe}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:04Z" name="quit" finished-at="2018-03-25T17:50:04Z" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method signature="test(java.util.Hashtable)[pri:1, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:04Z" name="test" data-provider="getData" finished-at="2018-03-25T17:50:04Z" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PRTY_TAX_ID_NUM=, CRS_SELF_CNTRY=AUS, CRS_SELF_CRTD=, PRTY_TAX_IND=Y, PRTY_KEY=Sijitha, PRTY_ADD=Batman}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:webdriver.TestCase@584f54e6]" started-at="2018-03-25T17:50:04Z" name="quit" finished-at="2018-03-25T17:50:04Z" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- webdriver.TestCase -->
+    </test> <!-- Test A -->
+  </suite> <!-- My Suite -->
+</testng-results>
